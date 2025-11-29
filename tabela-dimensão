@@ -1,0 +1,2 @@
+🎯 Objetivo
+Construir tabelas dimensão e fato baseado em star schema, para analisar vendas, lucros e margens por diferentes dimensões (tempo, país, segmento, produto e categoria).
